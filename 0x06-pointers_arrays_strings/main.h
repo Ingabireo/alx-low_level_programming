@@ -1,7 +1,4 @@
-                                                                                                           
-#ifndef MAIN_H                                                                                                                     
-#define MAIN_H                                                                                                                     
-                                                                                                                                        
+#ifndef MAIN_H                                                #define MAIN_H                                                                                                                                                                                                                                                         
 /**                                                                                                                                     
  * File: main.h                                                                                                                    
  * Auth: sam tech(Samuel birhanu)                                                                                                             

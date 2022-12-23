@@ -1,8 +1,7 @@
-#include "main.h"                                                                                                                    
-                                                                                                                                     
-/**                                                                                                                                  
+#include "main.h"                                                                                                                                                                                                                                            
+/**                                                                                                                            
  *  * strcat - Concatenates the string pointed to by @src, including the x                                                     
- *   *          null byte, to the end of the string pointed to by @dest.                                                                 
+ *   *          null byte, to the end of the string pointed to by @dest.                                            i                     
  *    * @dest: A pointer to the string to be concatenated upon.                                                                           
  *     * @src: The source string to be appended to @dest.                                                                                  
  *      *                                                                                                                                   
@@ -19,5 +18,4 @@ char *_strcat(char *dest, const char *src)
 					                dest[dest_len++] = src[index];                                                                                       
 				                                                                                                                                     
 				        return (dest);                                                                                                               
-} 
-
+}
